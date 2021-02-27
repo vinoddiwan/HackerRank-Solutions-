@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/bon-appetit/problem
+
 def bonAppetit(bill, k, b):
     annaBill = 0
     for i in range(len(bill)):
